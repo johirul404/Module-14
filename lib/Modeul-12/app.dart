@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_app/Modeul-12/Assignment2.dart';
 import 'package:my_app/Modeul-12/Class-1Another.dart';
 import 'package:my_app/Modeul-12/Class-2.dart';
 import 'package:my_app/Modeul-12/Class-3.dart';
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Md Johirul Islam',
-      home: Ecommarce(),
+      home: RegisterFrom(),
     );
   }
 }

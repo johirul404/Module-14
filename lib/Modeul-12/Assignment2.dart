@@ -86,6 +86,7 @@ class RegisterFrom extends StatelessWidget {
                     ),),
                     SizedBox(height: 10,),
                     TextFormField(
+                      obscureText: true,
                       decoration: InputDecoration(
                         filled: true,
                         fillColor: Colors.white24,
@@ -114,6 +115,7 @@ class RegisterFrom extends StatelessWidget {
                     ),),
                     SizedBox(height: 10,),
                     TextFormField(
+                      obscureText: true,
                       decoration: InputDecoration(
                         filled: true,
                         fillColor: Colors.white24,

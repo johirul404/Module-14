@@ -1,7 +1,5 @@
 import 'package:flutter/cupertino.dart';
-
-//import 'app.dart';
-import'studentProfileApp.dart';
+import 'M13App.dart';
 main(){
   runApp(MyApp());
 }
